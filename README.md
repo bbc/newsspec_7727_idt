@@ -4,7 +4,7 @@ IDT-friendly version of the Nelson Mandela Timeline - moved into the iFrame Scaf
 
 ## Create your own timeline
 
-Read the section "Two versions of the timeline" and follow the Google spreadsheet version instructions. See NEWSSPEC-7935 for a link to a Google spreadsheet you can base your new timeline on (and to see which spreadsheet was used to generate THIS timeline!.
+Read the section "Two versions of the timeline". You may be looking for a different version of this timeline.
 
 ## Two versions of the timeline
 
