@@ -1,0 +1,231 @@
+{
+    "intro": {
+        "image": {
+            "src": "/img/640/intro.jpg",
+            "alt": "Nelson Mandela"
+        },
+        "text": [
+            "Nelson Mandela has died at the age of 95. He was a lawyer, an activist and a prisoner before becoming the first black president of South Africa and an inspiration to generations around the world.",
+            "Here, we look at the milestones in his life."
+        ]
+    },
+
+    "panels": [
+
+        {
+            "thumb": {
+                "caption": "Early years",
+                "image": "/img/thumbnails/1.gif"
+            },
+            "panel": {
+                "title": "Early years",
+                "image": {
+                    "src": "/img/640/1.jpg",
+                    "alt": "Early years"
+                },
+                "map": {
+                    "page": "http://www.bbc.co.uk/news/world-africa-20761222",
+                    "playlist": "http://playlists.bbc.co.uk/news/world-africa-20761222A/playlist.sxml",
+                    "overlay": "play"
+                },
+                "text": [
+                    "Rolihlahla Mandela, the son of a Thembu tribal chief, was born in Mvezo, in South Africa's Eastern Cape on 18 July 1918. He was the first of his family to go to school. It was there he received the name Nelson - it was customary for school children to be given English names.",
+                    "In 1941, he fled to Johannesburg to avoid an arranged marriage. He met Walter Sisulu who helped him get work at law firm Witkin Sidelsky. Mr Mandela joined the African National Congress (ANC) in 1944."
+                ]
+            }
+        },
+
+        {
+            "thumb": {
+                "caption": "1956: Treason trial",
+                "image": "/img/thumbnails/2.gif"
+            },
+            "panel": {
+                "title": "Treason trial",
+                "image": {
+                    "src": "/img/640/2.jpg",
+                    "alt": "Hope for Africa"
+                },
+                "map": false,
+                "text": [
+                    "Mr Mandela qualified as a lawyer and in 1952 set up the country's first black law firm with Oliver Tambo.",
+                    "Fearing a ban by the apartheid government, the ANC asked Mr Mandela to make plans to ensure the party could work underground.",
+                    "He was arrested in 1956 and charged with treason along with 155 others. The trial lasted four-and-a-half-years, and ended with his being acquitted. In 1958, he married his second wife, Winnie Madikizela."
+                ]
+            }
+        },
+
+        {
+            "thumb": {
+                "caption": "1964: Life sentence",
+                "image": "/img/thumbnails/3.gif"
+            },
+            "panel": {
+                "title": "Life sentence",
+                "image": {
+                    "src": "/img/640/3.jpg",
+                    "alt": "Arrest and trial"
+                },
+                "map": {
+                    "page": "http://www.bbc.co.uk/news/world-africa-20761223",
+                    "playlist": "http://playlists.bbc.co.uk/news/world-africa-20761223A/playlist.sxml",
+                    "overlay": "play"
+                },
+                "text": [
+                    "After police killed 69 protesters in Sharpeville in March 1960, the government feared retaliation, so it declared a state of emergency and then banned the ANC. The organisation formed a military wing, led by Mr Mandela.",
+                    "In 1962, Mr Mandela was arrested and tried for leaving the country illegally. In 1963, while in prison, he was charged with sabotage. He and seven others were sentenced to life in 1964 and jailed on Robben Island."
+                ]
+            }
+        },
+
+        {
+            "thumb": {
+                "caption": "1990: Free at last",
+                "image": "/img/thumbnails/4.gif"
+            },
+            "panel": {
+                "title": "Free at last",
+                "image": {
+                    "src": "/img/640/4.jpg",
+                    "alt": "Free at last"
+                },
+                "map": {
+                    "page": "http://www.bbc.co.uk/news/world-africa-11633125",
+                    "playlist": "http://playlists.bbc.co.uk/news/world-africa-11633125A/playlist.sxml",
+                    "overlay": "play"
+                },
+                "text": [
+                    "The international community started to tighten sanctions which had been first imposed on the apartheid regime in 1967. By 1990, the pressure led to President FW de Klerk lifting the ban on the ANC.",
+                    "On 11 February 1990, Mr Mandela was freed after 27 years in prison. Crowds cheered as he and his wife Winnie left the prison grounds. The next year, Mr Mandela was elected ANC president at the party's first national conference. Talks began on forming a new, multi-racial democracy."
+                ]
+            }
+        },
+
+        {
+            "thumb": {
+                "caption": "1993: Nobel prize",
+                "image": "/img/thumbnails/5.gif"
+            },
+            "panel": {
+                "title": "Nobel Prize",
+                "image": {
+                    "src": "/img/640/5.jpg",
+                    "alt": "Nobel Prize"
+                },
+                "map": false,
+                "text": [
+                    "In 1993, Mr Mandela and South African President FW De Klerk were jointly awarded the Nobel Peace Prize for efforts to bring stability to South Africa.",
+                    "The Nobel Committee said both men had made \"a brilliant contribution to peace\".",
+                    "Accepting the award, Mr Mandela said: \"We will do what we can to contribute to the renewal of our world.\""
+                ]
+            }
+        },
+
+        {
+            "thumb": {
+                "caption": "1994: New president",
+                "image": "/img/thumbnails/6.gif"
+            },
+            "panel": {
+                "title": "New president",
+                "image": {
+                    "src": "/img/640/6.jpg",
+                    "alt": "New president"
+                },
+                "map": {
+                    "page": "http://www.bbc.co.uk/news/world-africa-11633124",
+                    "playlist": "http://playlists.bbc.co.uk/news/world-africa-11633124A/playlist.sxml",
+                    "overlay": "play"
+                },
+                "text": [
+                    "In 1994, for the first time in South Africa's history, people from all races voted in democratic elections. The ANC won and Mr Mandela became president. He told crowds at his inauguration on 10 May, 1994: \"Let freedom reign, God bless Africa!\"",
+                    "His deputy, Thabo Mbeki, took over the day-to-day running of government, leaving Mr Mandela free to promote the country abroad."
+                ]
+            }
+        },
+
+        {
+            "thumb": {
+                "caption": "1995: Return to Robben",
+                "image": "/img/thumbnails/7.gif"
+            },
+            "panel": {
+                "title": "Robben return",
+                "image": {
+                    "src": "/img/640/7.jpg",
+                    "alt": "Robben return"
+                },
+                "map": false,
+                "text": [
+                    "To mark the fifth anniversary of his release, Mr Mandela visited the prison on Robben Island where he had spent 18 years in captivity.",
+                    "Mr Mandela made the visit in February 1995 with other former prisoners who had served time on the island, where many were forced to perform hard labour."
+                ]
+            }
+        },
+
+        {
+            "thumb": {
+                "caption": "2004: \"Don't call me\"",
+                "image": "/img/thumbnails/8.gif"
+            },
+            "panel": {
+                "title": "\"Don't call me\"",
+                "image": {
+                    "src": "/img/640/8.jpg",
+                    "alt": "Quiet life"
+                },
+                "map": {
+                    "page": "http://www.bbc.co.uk/news/world-africa-22863499",
+                    "playlist": "http://playlists.bbc.co.uk/news/world-africa-22863499A/playlist.sxml",
+                    "overlay": "play"
+                },
+                "text": [
+                    "Mr Mandela stepped down as ANC president in 1997 and his successor Thabo Mbeki led the party to victory at the polls in 1999.",
+                    "On his 80th birthday, Mr Mandela married his third wife Graca Machel. He became South Africa's highest-profile ambassador, campaigning against HIV/Aids and helping secure the 2010 football World Cup. He announced his retirement from public life in 2004. Joking with reporters, he said: \"Don't call me, I'll call you.\""
+                ]
+            }
+        },
+
+        {
+            "thumb": {
+                "caption": "2008: Birthday party",
+                "image": "/img/thumbnails/9.gif"
+            },
+            "panel": {
+                "title": "Birthday party",
+                "image": {
+                    "src": "/img/640/9.jpg",
+                    "alt": "Birthday party"
+                },
+                "map": {
+                    "page": "http://www.bbc.co.uk/news/entertainment-arts-11640968",
+                    "playlist": "http://playlists.bbc.co.uk/news/entertainment-arts-11640968A/playlist.sxml",
+                    "overlay": "play"
+                },
+                "text": [
+                    "Musicians, film stars and politicians joined Mr Mandela at a concert in London's Hyde Park in 2008 to celebrate his 90th birthday.",
+                    "Speaking to the crowd, he said: \"It is time for new hands to lift the burdens, it is in your hands now.\""
+                ]
+            }
+        },
+
+        {
+            "thumb": {
+                "caption": "2013: Illness",
+                "image": "/img/thumbnails/10.gif"
+            },
+            "panel": {
+                "title": "Illness",
+                "image": {
+                    "src": "/img/640/10.jpg",
+                    "alt": "Retirement"
+                },
+                "map": false,
+                "text": [
+                    "The former president made few public appearances after his 90th birthday, although he appeared at the closing ceremony of the 2010 football World Cup, hosted by South Africa.",
+                    "In January 2011, Mr Mandela was admitted to hospital with a respiratory infection and he suffered repeated infections over the next two years. His lungs are said to have been damaged when he worked in a prison quarry. He died at home on 5 December 2013."
+                ]
+            }
+        }
+    ]
+}

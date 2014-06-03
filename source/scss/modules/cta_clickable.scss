@@ -1,0 +1,13 @@
+.main .clickable {
+	display: none;
+}
+
+.main--carousel .clickable {
+	display: inline-block;
+	font-weight: bold;
+	font-size: 13px;
+	color: #fff;
+	background: #000;
+	padding: 4px;
+	margin-bottom: 2px;
+}
