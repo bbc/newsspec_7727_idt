@@ -2,7 +2,7 @@
   "name": "Mandela_Timeline",
   "repository": {
     "type": "git",
-    "url": "http://github.com/BBCVisualJournalism/newsspec_7727"
+    "url": "http://github.com/BBCVisualJournalism/newsspec_7727_idt"
   },
   "description":    "IDT friendly version of Nelson Mandela Timeline - moved into the iFrame Scaffold",
   "version":        "1.0.0",
